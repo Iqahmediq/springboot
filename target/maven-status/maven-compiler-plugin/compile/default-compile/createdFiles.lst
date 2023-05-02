@@ -1,0 +1,13 @@
+com\GestionEmploi\Services\DepartmentService.class
+com\GestionEmploi\Services\DepartmentServiceImpl.class
+com\GestionEmploi\entities\Department.class
+com\GestionEmploi\models\EmployeeModel.class
+com\GestionEmploi\Repositories\EmployeeRepository.class
+com\GestionEmploi\entities\Employee.class
+com\GestionEmploi\models\DepartmentModel.class
+com\GestionEmploi\Controller\EmployeeRestController.class
+com\GestionEmploi\Services\EmployeeServiceImpl.class
+com\GestionEmploi\GestionEmploiDepartementApplication.class
+com\GestionEmploi\Repositories\DepartmentRepository.class
+com\GestionEmploi\Controller\DepartmentRestController.class
+com\GestionEmploi\Services\EmployeeService.class
